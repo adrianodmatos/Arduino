@@ -1,0 +1,4 @@
+Sistema de Iluminação Ajustável Baseado na Luz Ambiente com Arduino
+
+Este projeto implementa um sistema de iluminação que ajusta a intensidade de um LED baseado na luz ambiente utilizando um sensor LDR (Light Dependent Resistor). 
+A intensidade do LED é ajustada dinamicamente, armazenando as últimas 12 leituras do sensor de luz e calculando a média para determinar a intensidade adequada do LED.
